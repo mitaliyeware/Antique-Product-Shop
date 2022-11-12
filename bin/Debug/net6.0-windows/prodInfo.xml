@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Product>
+		<name>Tower Bridge from the Thames</name>
+		<price>1699</price>
+		<originPeriod>0</originPeriod>
+		<origin>British</origin>
+		<condition>Watercolours will be sent to you mounted and wrapped in cellophane, ready for framing</condition>
+		<description>This is a fantastic signed Edward Wesson original in ink and watercolour of London, Tower Bridge from the Thames. Watercolours will be sent to you mounted and wrapped in cellophane, ready for framing.</description>
+		
+	</Product>
+	<Product>
+		<name>Canvas Portrait of Lady</name>
+		<price>1299</price>
+		<originPeriod>0</originPeriod>
+		<origin>British</origin>
+	</Product>
+	<Product>
+		<name>Oil Painting Still Life Flowers</name>
+		<price>899</price>
+		<originPeriod>0</originPeriod>
+		<origin>Dutch</origin>
+	</Product>
+	<Product>
+		<name>Bust of an Arab Girl</name>
+		<price>1999</price>
+		<originPeriod>0</originPeriod>
+		<origin>Arabic</origin>
+	</Product>
+	<Product>
+		<name>Walnut Sculpture of Madonna Seated on Throne </name>
+		<price>2599</price>
+		<originPeriod>0</originPeriod>
+		<origin>French</origin>
+	</Product>
+	<Product>
+		<name>Liberty Style Leather Elephant</name>
+		<price>599</price>
+		<originPeriod>0</originPeriod>
+		<origin>British</origin>
+	</Product>
+	<Product>
+		<name>Bronze Figure of Ganesha</name>
+		<price>1199</price>
+		<originPeriod>0</originPeriod>
+		<origin>Asian</origin>
+	</Product>
+	<Product>
+		<name>Spelter Elephant Group</name>
+		<price>599</price>
+		<originPeriod>0</originPeriod>
+		<origin>French</origin>
+	</Product>
+	<Product>
+		<name>Liverpool Made Regulator Wall Clock</name>
+		<price>1399</price>
+		<originPeriod>0</originPeriod>
+		<origin>English</origin>
+	</Product>
+	<Product>
+		<name>Marble and Bronze Mantle Clock</name>
+		<price>2799</price>
+		<originPeriod>0</originPeriod>
+		<origin>French</origin>
+	</Product>
+	<Product>
+		<name>Victorian Oak Cased Mantel Cuckoo Clock</name>
+		<price>1299</price>
+		<originPeriod>0</originPeriod>
+		<origin>German</origin>
+	</Product>
+	<Product>
+		<name>Baroque Revival Mirror</name>
+		<price>399</price>
+		<originPeriod>0</originPeriod>
+		<origin>French</origin>
+	</Product>
+	<Product>
+		<name>Giltwood Large Overmantle Mirror</name>
+		<price>799</price>
+		<originPeriod>0</originPeriod>
+		<origin>English</origin>
+	</Product>
+	<Product>
+		<name>Sardonyx and 9ct Yellow Gold Bracelet</name>
+		<price>999</price>
+		<originPeriod>0</originPeriod>
+		<origin />
+	</Product>
+	<Product>
+		<name>Vintage Theo Fennell Bracelet 9ct Gold Solid Curb and Fancy Link with Lobster Clasp</name>
+		<price>499</price>
+		<originPeriod>0</originPeriod>
+		<origin>British</origin>
+	</Product>
+	<Product>
+		<name>Gold Garnet and Seed Pearl Dress Ring</name>
+		<price>899</price>
+		<originPeriod>0</originPeriod>
+		<origin>British</origin>
+	</Product>
+	<Product>
+		<name>1.62ct Diamond, 18ct White Gold Dress Ring</name>
+		<price>2299</price>
+		<originPeriod>0</originPeriod>
+		<origin>English</origin>
+	</Product>
+	<Product>
+		<name>Floral Patterned Photo Locket </name>
+		<price>1199</price>
+		<originPeriod>0</originPeriod>
+		<origin>British</origin>
+	</Product>
+	<Product>
+		<name>Mahogany Writing Desk</name>
+		<price>899</price>
+		<originPeriod>0</originPeriod>
+		<origin>English</origin>
+	</Product>
+	<Product>
+		<name>Oak Corner Chair</name>
+		<price>399</price>
+		<originPeriod>0</originPeriod>
+		<origin>British</origin>
+	</Product>
+	<Product>
+		<name>Pisa</name>
+		<price>999</price>
+		<originPeriod>0</originPeriod>
+		<origin>Italian</origin>
+	</Product>
+	<Product>
+		<name>Taj Mahal</name>
+		<price>2999</price>
+		<originPeriod>0</originPeriod>
+		<origin>Asian</origin>
+	</Product>
+	<Product>
+		<name>Great Wall of China</name>
+		<price>1999</price>
+		<originPeriod>1920</originPeriod>
+		<origin>Chinese</origin>
+		<height_width>0*0</height_width>
+		<condition>Good</condition>
+		<description>Product_Description</description>
+		<ImagePath>/Images/1.jpg</ImagePath>
+	</Product>
+	<Product>
+		<name>box</name>
+		<price>2399</price>
+		<originPeriod>1800</originPeriod>
+		<origin>Asian</origin>
+		<height_width>0*0</height_width>
+		<condition>Good</condition>
+		<description>Product_Description</description>
+	</Product>
+	<Product>
+		<name>New Product</name>
+		<price>0</price>
+		<originPeriod>1</originPeriod>
+		<origin>Asian</origin>
+		<height_width>0*0</height_width>
+		<condition>Good</condition>
+		<description>Product_Description</description>
+		<ImagePath>/Images/IMG-2872_1.jpg</ImagePath>
+	</Product>
+</ArrayOfProduct>

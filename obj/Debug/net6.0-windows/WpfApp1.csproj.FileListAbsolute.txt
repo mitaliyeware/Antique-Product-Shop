@@ -1,0 +1,94 @@
+D:\SRH\ACS\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\SRH\ACS\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\SRH\ACS\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\SRH\ACS\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\SRH\ACS\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\SRH\ACS\WpfApp1\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\SRH\ACS\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\SRH\ACS\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\SRH\ACS\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\SRH\ACS\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\SRH\ACS\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\App.g.cs
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\AnotherWindow.g.cs
+D:\SRH\ACS\WpfApp1 - Copy\obj\Debug\net6.0-windows\AnotherWindow.baml
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\Dictionary1.baml
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\AnotherWindow.g.cs
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\AnotherWindow.baml
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\WpfApp1 - Copy\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\bin\Debug\net6.0-windows\WpfApp1.exe
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\bin\Debug\net6.0-windows\WpfApp1.deps.json
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\bin\Debug\net6.0-windows\WpfApp1.dll
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\bin\Debug\net6.0-windows\WpfApp1.pdb
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\Dictionary1.baml
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\AnotherWindow.g.cs
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\App.g.cs
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\AnotherWindow.baml
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.g.resources
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.dll
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.pdb
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+D:\SRH\ACS\1\WpfApp1 - Copy - Copy\obj\Debug\net6.0-windows\ref\WpfApp1.dll
