@@ -11,10 +11,13 @@ The functionalities implemented in the application are:
 ![image](https://user-images.githubusercontent.com/97853861/201518757-5673fc6d-7326-494a-b0de-8d4943c530b8.png)
 
 •	Add and Delete products from cart:
+
 ![image](https://user-images.githubusercontent.com/97853861/201518777-1db265cd-d40f-43fc-ac40-6dd2bd0d3cbe.png)
 
 •	Add customers:
+
 ![image](https://user-images.githubusercontent.com/97853861/201518822-96fcc59f-064d-4d14-9d0f-eb22d5d4a8e9.png)
 
 •	Place order:
+
 ![image](https://user-images.githubusercontent.com/97853861/201518842-785df2e6-4cac-4a54-81d5-5fa9edd02419.png)
