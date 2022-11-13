@@ -5,6 +5,7 @@ Here, I have developed a user-friendly desktop application for the local busines
 
 The end user of this application would be the local business owner or staff members who are working with the owner to buy and sale the old and antique products.
 
+# Functionalities
 The functionalities implemented in the application are:
 
 •	Product CRUD Operations:
