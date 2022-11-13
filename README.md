@@ -8,6 +8,7 @@ The end user of this application would be the local business owner or staff memb
 The functionalities implemented in the application are:
 
 •	Product CRUD Operations:
+
 ![image](https://user-images.githubusercontent.com/97853861/201518702-171223c1-a480-4938-b8c9-4513c70a858d.png)
 ![image](https://user-images.githubusercontent.com/97853861/201518757-5673fc6d-7326-494a-b0de-8d4943c530b8.png)
 
